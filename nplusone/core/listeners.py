@@ -158,5 +158,5 @@ class EagerTracker(object):
 
 listeners = {
     'lazy_load': LazyListener,
-    'eager_load': EagerListener,
+    # 'eager_load': EagerListener,
 }
